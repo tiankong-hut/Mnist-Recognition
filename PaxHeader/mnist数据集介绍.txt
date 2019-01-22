@@ -1,0 +1,3 @@
+55 path=PycharmProjects/MNIST/mnist数据集介绍.txt
+27 mtime=1512360575.878628
+27 atime=1527489109.373847

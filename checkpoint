@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/chuwei/PycharmProjects/MNIST/p1.txt"
+all_model_checkpoint_paths: "/home/chuwei/PycharmProjects/MNIST/p1.txt"
